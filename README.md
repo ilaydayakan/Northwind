@@ -1,4 +1,4 @@
-#Northwind SQL Veritabanı Analizleri
+Northwind SQL Veritabanı Analizleri
 
 Bu proje, Northwind SQL veritabanı kullanılarak gerçekleştirilen dört ana analiz ve görselleştirmeyi içermektedir. Analizler, veritabanındaki farklı veri kümelerini inceleyerek iş süreçleri ve müşteri davranışları hakkında derinlemesine bilgi sağlamayı amaçlamaktadır.
 
